@@ -217,13 +217,8 @@ class Home extends StatelessWidget {
 
              ),
            )
-
          ],
-
-
-
     )
-
     );
   }
 }
